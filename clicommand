@@ -1,0 +1,22 @@
+#open git bash
+
+#to check the existence of ssh key
+ls -al ~/.ssh
+
+#generating ssh key
+ssh-keygen -t rsa -b 4096 -c "name"
+
+#add ssh key to the ssh agent
+eval $(ssh-agent -s)
+ssh-add ~/.ssh/id_rsa
+
+#copy ssh key to github
+#first, go to the directory below.
+
+C:\Users\(user_name)\.ssh
+
+#open id_rsa.pub file using notepad and copy the whole content
+#paste it on github
+
+#confirm the connection to github
+ssh -T git@github.com

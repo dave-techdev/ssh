@@ -1,1 +1,3 @@
 I am adding a new file to test fetch and pull request
+
+Next I am adding a change from local directory

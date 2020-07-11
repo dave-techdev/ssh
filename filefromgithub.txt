@@ -1,3 +1,8 @@
 I am adding a new file to test fetch and pull request
 
 Next I am adding a change from local directory
+
+I am adding this new more line to simulate the clash between local directory update
+and github update
+
+I am deleting the clash comment. Thus, this file should work properly now

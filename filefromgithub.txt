@@ -1,1 +1,4 @@
 I am adding a new file to test fetch and pull request
+
+I am adding this new more line to simulate the clash between local directory update
+and github update

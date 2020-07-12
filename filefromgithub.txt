@@ -6,3 +6,6 @@ I am adding this new more line to simulate the clash between local directory upd
 and github update
 
 I am deleting the clash comment. Thus, this file should work properly now
+
+I am adding a new line from local directory to see another comparison between
+local-branch and sample-branch (made directly on github)

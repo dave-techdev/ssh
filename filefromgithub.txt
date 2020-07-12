@@ -6,3 +6,6 @@ I am adding this new more line to simulate the clash between local directory upd
 and github update
 
 I am deleting the clash comment. Thus, this file should work properly now
+
+After creating a sample-branch, I am adding this new line to see confirm the change only exists in the sample-branch;
+not in the master branch.
